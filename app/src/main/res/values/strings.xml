@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">10119265_UTS_AKB</string>
+    <string name="judul">Nama</string>
+    <string name="tanggal_buat">Tanggal Lahir</string>
+    <string name="alamat">alamat</string>
+    <string name="Isi_Pena">NO HP</string>
+    <string name="simpan">Simpan</string>
+    <string name="batal">Batal</string>
+    <string name="edit_catatan">Edit Catatan</string>
+    <string name="hapus_catatan">Hapus Catatan</string>
+    <string name="beranda">Beranda</string>
+    <string name="identitas">Identitas</string>
+    <string name="informasi_aplikasi">Informasi Aplikasi</string>
+    <string name="kategori_pena">Kategori_Pena</string>
+</resources>
